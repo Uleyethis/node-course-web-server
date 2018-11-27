@@ -1,0 +1,28 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Servers and Application Deployment section of The Complete Node.js Developer course on Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Daggett",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Uley/web-server.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/Uley/web-server/issues"
+  },
+  "homepage": "https://gitlab.com/Uley/web-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
